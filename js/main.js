@@ -2,7 +2,7 @@ $(document).ready(function() {
 
 
 //--PARALLAX
-  var currentX = '';
+  var currentX = ''; 
   var currentY = '';
   var movementConstant = .015;
   $(document).mousemove(function(e) {
